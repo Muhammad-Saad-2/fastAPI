@@ -1,0 +1,7 @@
+httpie
+httpx
+pydantic
+requests
+sqlmodel
+psycopg2-binary
+fastAPI
